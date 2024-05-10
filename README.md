@@ -13,4 +13,5 @@
 Un README:
 
 Need to be descriptive; List the contents of the repository; Clearly explains the project to others
+Its included details of how the project came about
 
